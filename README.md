@@ -1,0 +1,63 @@
+
+I work at SUSE as Senior QE Engineer creating and automating tests to improve our story on:
+- Containers: [Docker](https://www.docker.com) & [Podman](https://podman.io/) on architectures such as aarch64, ppc64le, s390x & x86_64.
+- Public Cloud: AWS, Azure, GCP & Openstack.
+- Also [hunt down bugs](https://bugzilla.opensuse.org/buglist.cgi?email1=rbranco%40suse.com&emailreporter1=1&emailtype1=substring&list_id=14141010&query_format=advanced) and help fixing them.
+
+In my free time I contribute to
+- Kernel & userland in
+[FreeBSD](https://github.com/freebsd/freebsd-src/commits?author=ricardobranco777),
+[NetBSD](https://www.netbsd.org/changes/changes-11.0.html),
+[DragonflyBSD](https://github.com/DragonFlyBSD/DragonFlyBSD/commits?author=ricardobranco777) &
+[OpenBSD](https://marc.info/?s=Ricardo+Branco&l=openbsd-tech)
+- Open-source projects under the `containers` & `opencontainers` umbrella like
+[buildah](https://github.com/containers/buildah/commits?author=ricardobranco777),
+[netavark](https://github.com/containers/netavark/commits?author=ricardobranco777),
+[podman](https://github.com/containers/podman/commits?author=ricardobranco777),
+etc.
+- Other open-source projects like
+[bugzilla](https://github.com/python-bugzilla/python-bugzilla/pulls?q=is%3Apr+author%3Aricardobranco777+is%3Aclosed),
+[libcloud](https://github.com/apache/libcloud/pull/1944),
+etc.
+
+I hunt down bugs in:
+- [FreeBSD](https://bugs.freebsd.org/bugzilla/buglist.cgi?email1=ighighi%40gmail.com&emailreporter1=1&emailtype1=substring&list_id=869827&query_format=advanced),
+also [FreeBSD](https://bugs.freebsd.org/bugzilla/buglist.cgi?email1=ighighi%40gmail.com&emailreporter1=1&emailtype1=substring&list_id=869827&query_format=advanced),
+[NetBSD](https://gnats.netbsd.org/cgi-bin/query-pr-list.pl?originator=Ricardo%20Branco),
+also [NetBSD](https://gnats.netbsd.org/cgi-bin/query-pr-list.pl?originator=Ighighi),
+[GhostBSD](https://github.com/ghostbsd/issues/issues?q=is%3Aissue%20state%3Aopen%20author%3Aricardobranco777),
+[Illumos](https://github.com/omniosorg/illumos-omnios/pull/1589), etc.
+- Open-source projects under the `containers` & `opencontainers` umbrella like:
+[podman](https://github.com/containers/podman/issues?q=is%3Aissue%20author%3Aricardobranco777),
+[runc](https://github.com/opencontainers/runc/issues?q=is%3Aissue%20author%3Aricardobranco777),
+etc.
+- Other open-source projects like:
+[apparmor](https://gitlab.com/apparmor/apparmor/-/issues/364),
+[busybox](https://www.openwall.com/lists/oss-security/2025/04/23/6),
+[bugzilla](https://github.com/python-bugzilla/python-bugzilla/issues?q=is%3Aissue%20state%3Aclosed%20author%3Aricardobranco777),
+[QEMU](https://gitlab.com/qemu-project/qemu/-/issues/2747),
+[raspberrypi](https://github.com/raspberrypi/rpi-imager/issues/770),
+[redmine](https://github.com/maxtepkeev/python-redmine/issues/330),
+etc.
+
+Interests:
+- Operating systems, both as a means and an end in itself.
+- Containerization & virtualization technologies.
+- Security: Sandboxing, hardening, etc.
+- Configuration management & deployment.
+- Networking and having fun with JSON APIs.
+- Automating myself out of existence.
+
+Favorite languages:
+- C, Go, Python
+- Scripting languages: Awk, Bash or POSIX shell, Perl.
+- Other languages: Spanish, English & Portuguese. Favourite German phrase: _Mein Leben, Meine Regeln_
+
+Test frameworks I use:
+- [Automated Test Framework](https://github.com/freebsd/atf)
+- [Bash Automated Testing System](https://github.com/bats-core/bats-core)
+- [Golang testing](https://pkg.go.dev/testing)
+- [openQA](https://github.com/os-autoinst/os-autoinst-distri-opensuse/)
+- [Pytest](https://docs.pytest.org/en/stable/)
+- [RobotFramework](https://robotframework.org/)
+- [Selenium](https://selenium-python.readthedocs.io/)
