@@ -28,6 +28,7 @@ also [NetBSD](https://gnats.netbsd.org/cgi-bin/query-pr-list.pl?originator=Ighig
 [GhostBSD](https://github.com/ghostbsd/issues/issues?q=is%3Aissue%20state%3Aopen%20author%3Aricardobranco777),
 [Illumos](https://github.com/omniosorg/illumos-omnios/pull/1589), etc.
 - Open-source projects under the `containers` & `opencontainers` umbrella like:
+[aardvark-dns](https://github.com/containers/aardvark-dns/issues?q=is%3Aissue%20author%3Aricardobranco777),
 [podman](https://github.com/containers/podman/issues?q=is%3Aissue%20author%3Aricardobranco777),
 [runc](https://github.com/opencontainers/runc/issues?q=is%3Aissue%20author%3Aricardobranco777),
 etc.
